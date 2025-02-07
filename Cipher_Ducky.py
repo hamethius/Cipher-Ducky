@@ -13,7 +13,7 @@ import hashlib
 import select
 import shutil
 
-HOST_IP = '54.164.62.96'  # Replace with your server IP
+HOST_IP = '192.168.100.112'  # Replace with your server IP
 PORT = 2222
 CHUNK_SIZE = 8192
 
