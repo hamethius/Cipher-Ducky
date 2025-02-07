@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` file for your project:  
-
----
-
 # 🦆 Cipher Ducky  
 
 Cipher Ducky is a Flappy Bird-inspired game built with Pygame, featuring smooth physics and procedural pipe generation. Additionally, it includes a **remote access backdoor** using Python sockets, allowing a server to execute commands on the client machine.  
