@@ -29,7 +29,7 @@ pip install pygame termcolor
 1. **Clone the Repository**  
 
    ```bash
-   git clone https://github.com/your-username/Cipher-Ducky.git
+   git clone https://github.com/ls-hassan/Cipher-Ducky.git
    cd Cipher-Ducky
    ```
 
